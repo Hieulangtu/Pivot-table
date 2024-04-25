@@ -1,0 +1,467 @@
+[
+    {
+        "id": "1b7f55cf-b690-4958-8cfb-0edaa0c0806d",
+        "publicationtype": {
+            "id": "5dab1f90-821d-44bd-bb43-f38d091f0ac5",
+            "name": "Journal articles"
+        },
+        "place": "Manchester",
+        "publishedDate": "2023-11-24T00:00:00",
+        "valid": true,
+        "reference": "https://www.vodafone.cz/predplacene-karty/?fbclid=IwAR206Equp3x2wYGrjPNYXpyYk_pjlvRrPnhyEd-1YddWlc1KlBY08ojuZqI",
+        "name": "ReactJS",
+        "authors": [
+            {
+                "user": {
+                    "id": "6d0e864c-401b-4f53-9a30-74c0a109f334",
+                    "name": "Messi",
+                    "surname": "Garcia",
+                    "email": "messi.garcia@mu.com"
+                },
+                "id": "1ad3b5b2-69d9-4c68-9781-76ac13aaa47d",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-10-14T00:00:00",
+                "share": 0.8
+            },
+            {
+                "user": {
+                    "id": "712af062-2493-4700-95b8-819fbe8e8a60",
+                    "name": "Bob",
+                    "surname": "Davis",
+                    "email": "bob.davis@mu.com"
+                },
+                "id": "2b844206-c391-4ce8-8c14-8f3a98dc5413",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-10-26T00:00:00",
+                "share": 0.11
+            },
+            {
+                "user": {
+                    "id": "515553fe-e48e-4285-894f-0f728706ac02",
+                    "name": "Messi",
+                    "surname": "Jones",
+                    "email": "messi.jones@mu.com"
+                },
+                "id": "11c0cbe4-3efb-4cff-979a-c28cb60b0f05",
+                "order": 3,
+                "valid": true,
+                "lastchange": "2024-04-14T00:00:00",
+                "share": 0.08999999999999996
+            }
+        ]
+    },
+    {
+        "id": "8af329b0-c5f6-45be-861f-e58e6552e8df",
+        "publicationtype": {
+            "id": "ae548aaf-991b-4131-add3-a93b18634a62",
+            "name": "Conference proceedings"
+        },
+        "place": "Manchester",
+        "publishedDate": "2023-11-10T00:00:00",
+        "valid": true,
+        "reference": "https://www.uefa.com/euro2024/ticketing/",
+        "name": "NodeJS",
+        "authors": [
+            {
+                "user": {
+                    "id": "515553fe-e48e-4285-894f-0f728706ac02",
+                    "name": "Messi",
+                    "surname": "Jones",
+                    "email": "messi.jones@mu.com"
+                },
+                "id": "1db0c690-a4b4-4a2f-9eb4-fb60198ba89f",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-10-27T00:00:00",
+                "share": 0.02
+            },
+            {
+                "user": {
+                    "id": "7d9e34e9-cdbf-438d-99f7-095fa44d815c",
+                    "name": "Messi",
+                    "surname": "Garcia",
+                    "email": "messi.garcia@mu.com"
+                },
+                "id": "2f248b79-09be-413d-8d00-1f1446ac55d4",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-10-22T00:00:00",
+                "share": 0.64
+            },
+            {
+                "user": {
+                    "id": "515553fe-e48e-4285-894f-0f728706ac02",
+                    "name": "Messi",
+                    "surname": "Jones",
+                    "email": "messi.jones@mu.com"
+                },
+                "id": "852b5af5-cb1c-4897-be6e-1dfd379449a9",
+                "order": 3,
+                "valid": true,
+                "lastchange": "2024-06-12T00:00:00",
+                "share": 0.33999999999999997
+            }
+        ]
+    },
+    {
+        "id": "712b58d2-1234-4da6-9471-0594e651d156",
+        "publicationtype": {
+            "id": "ae548aaf-991b-4131-add3-a93b18634a62",
+            "name": "Conference proceedings"
+        },
+        "place": "Prague",
+        "publishedDate": "2023-06-09T00:00:00",
+        "valid": true,
+        "reference": "https://www.uefa.com/euro2024/ticketing/",
+        "name": "MERN project",
+        "authors": [
+            {
+                "user": {
+                    "id": "ef1b3d91-0a58-4a2d-9e72-1a0c784505c8",
+                    "name": "Charlie",
+                    "surname": "Jones",
+                    "email": "charlie.jones@mu.com"
+                },
+                "id": "3f373714-9f08-46e4-943a-984440e4353a",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-12-21T00:00:00",
+                "share": 0.71
+            },
+            {
+                "user": {
+                    "id": "ef782fbb-2583-47a2-8c1f-b3f8e3248676",
+                    "name": "David",
+                    "surname": "Williams",
+                    "email": "david.williams@mu.com"
+                },
+                "id": "e962ed5a-04b5-4bd8-945e-6a13eeaa9c28",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-03-18T00:00:00",
+                "share": 0.06
+            },
+            {
+                "user": {
+                    "id": "515553fe-e48e-4285-894f-0f728706ac02",
+                    "name": "Messi",
+                    "surname": "Jones",
+                    "email": "messi.jones@mu.com"
+                },
+                "id": "a0dbd2e1-a0f5-44ee-95a7-4a709ef14380",
+                "order": 3,
+                "valid": true,
+                "lastchange": "2024-02-17T00:00:00",
+                "share": 0.23000000000000004
+            }
+        ]
+    },
+    {
+        "id": "99bbd036-2262-4535-a450-3bdef66c8ca6",
+        "publicationtype": {
+            "id": "ae548aaf-991b-4131-add3-a93b18634a62",
+            "name": "Conference proceedings"
+        },
+        "place": "Paris",
+        "publishedDate": "2023-09-18T00:00:00",
+        "valid": true,
+        "reference": "https://www.youtube.com/",
+        "name": "Messi",
+        "authors": [
+            {
+                "user": {
+                    "id": "ef1b3d91-0a58-4a2d-9e72-1a0c784505c8",
+                    "name": "Charlie",
+                    "surname": "Jones",
+                    "email": "charlie.jones@mu.com"
+                },
+                "id": "cb8cc8ae-add8-4232-a626-84af83b7bc5b",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-12-19T00:00:00",
+                "share": 0.51
+            },
+            {
+                "user": {
+                    "id": "ef782fbb-2583-47a2-8c1f-b3f8e3248676",
+                    "name": "David",
+                    "surname": "Williams",
+                    "email": "david.williams@mu.com"
+                },
+                "id": "037960a4-0fe8-46aa-a8eb-12fda60028fd",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-08-04T00:00:00",
+                "share": 0.23
+            },
+            {
+                "user": {
+                    "id": "ef1b3d91-0a58-4a2d-9e72-1a0c784505c8",
+                    "name": "Charlie",
+                    "surname": "Jones",
+                    "email": "charlie.jones@mu.com"
+                },
+                "id": "5f4a26c8-9f9f-493c-baba-65d9d502fca3",
+                "order": 3,
+                "valid": true,
+                "lastchange": "2024-06-21T00:00:00",
+                "share": 0.26
+            }
+        ]
+    },
+    {
+        "id": "c5de0158-613d-4d2e-8221-cce1ecf7b28e",
+        "publicationtype": {
+            "id": "ae548aaf-991b-4131-add3-a93b18634a62",
+            "name": "Conference proceedings"
+        },
+        "place": "Manchester",
+        "publishedDate": "2023-07-02T00:00:00",
+        "valid": true,
+        "reference": "https://www.uefa.com/euro2024/ticketing/",
+        "name": "JWT",
+        "authors": [
+            {
+                "user": {
+                    "id": "ef1b3d91-0a58-4a2d-9e72-1a0c784505c8",
+                    "name": "Charlie",
+                    "surname": "Jones",
+                    "email": "charlie.jones@mu.com"
+                },
+                "id": "fab4b95c-e021-4bb1-a86e-c48283f150fa",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-09-04T00:00:00",
+                "share": 1.0
+            }
+        ]
+    },
+    {
+        "id": "cf876e55-c734-4728-ab50-4e4a5b958980",
+        "publicationtype": {
+            "id": "2e666937-74ca-486c-9896-1dcacc6fd2f6",
+            "name": "Books"
+        },
+        "place": "London",
+        "publishedDate": "2023-10-18T00:00:00",
+        "valid": true,
+        "reference": "https://www.google.com/maps",
+        "name": "cookie",
+        "authors": [
+            {
+                "user": {
+                    "id": "533bb436-713a-4287-b9b0-34afbfd23bf3",
+                    "name": "Jack",
+                    "surname": "Jones",
+                    "email": "jack.jones@mu.com"
+                },
+                "id": "fa195983-55df-4aae-82bd-cf41626bd555",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-10-24T00:00:00",
+                "share": 0.9
+            },
+            {
+                "user": {
+                    "id": "515553fe-e48e-4285-894f-0f728706ac02",
+                    "name": "Messi",
+                    "surname": "Jones",
+                    "email": "messi.jones@mu.com"
+                },
+                "id": "a8327da0-9b5b-4a06-b8a0-c8642807a51c",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-08-10T00:00:00",
+                "share": 0.09999999999999998
+            }
+        ]
+    },
+    {
+        "id": "bee62901-1e34-40f1-a0c1-8b4cd27edc46",
+        "publicationtype": {
+            "id": "ceb6dd14-e7dc-4f5d-a4a2-d8a9f1d3dd3f",
+            "name": "Research reports"
+        },
+        "place": "Munich",
+        "publishedDate": "2023-10-18T00:00:00",
+        "valid": true,
+        "reference": "https://www.youtube.com/",
+        "name": "MongoDB",
+        "authors": [
+            {
+                "user": {
+                    "id": "ef782fbb-2583-47a2-8c1f-b3f8e3248676",
+                    "name": "David",
+                    "surname": "Williams",
+                    "email": "david.williams@mu.com"
+                },
+                "id": "1b61c664-4d6d-43f3-9935-8c470b16cc02",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-10-05T00:00:00",
+                "share": 1.0
+            }
+        ]
+    },
+    {
+        "id": "e4b030e6-967c-424b-917a-7de107a88e1b",
+        "publicationtype": {
+            "id": "5dab1f90-821d-44bd-bb43-f38d091f0ac5",
+            "name": "Journal articles"
+        },
+        "place": "Oslo",
+        "publishedDate": "2023-02-03T00:00:00",
+        "valid": true,
+        "reference": "https://www.uefa.com/euro2024/ticketing/",
+        "name": "IT 4",
+        "authors": [
+            {
+                "user": {
+                    "id": "515553fe-e48e-4285-894f-0f728706ac02",
+                    "name": "Messi",
+                    "surname": "Jones",
+                    "email": "messi.jones@mu.com"
+                },
+                "id": "539b8b8c-8c98-4f4a-80e4-75e9ad02f023",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-11-24T00:00:00",
+                "share": 0.33
+            },
+            {
+                "user": {
+                    "id": "ef782fbb-2583-47a2-8c1f-b3f8e3248676",
+                    "name": "David",
+                    "surname": "Williams",
+                    "email": "david.williams@mu.com"
+                },
+                "id": "afe233c7-6e8d-4635-9513-3a556ef9b1f4",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-04-07T00:00:00",
+                "share": 0.61
+            },
+            {
+                "user": {
+                    "id": "ef782fbb-2583-47a2-8c1f-b3f8e3248676",
+                    "name": "David",
+                    "surname": "Williams",
+                    "email": "david.williams@mu.com"
+                },
+                "id": "017f24d8-664e-412c-bdb0-78eaba33051c",
+                "order": 3,
+                "valid": true,
+                "lastchange": "2024-06-05T00:00:00",
+                "share": 0.05999999999999994
+            }
+        ]
+    },
+    {
+        "id": "d69df47f-62b3-4200-9bb6-aa7cd01c8a9f",
+        "publicationtype": {
+            "id": "ae548aaf-991b-4131-add3-a93b18634a62",
+            "name": "Conference proceedings"
+        },
+        "place": "Hanoi",
+        "publishedDate": "2023-02-27T00:00:00",
+        "valid": true,
+        "reference": "https://www.facebook.com/da.r.bou.3/",
+        "name": "Express",
+        "authors": [
+            {
+                "user": {
+                    "id": "ef1b3d91-0a58-4a2d-9e72-1a0c784505c8",
+                    "name": "Charlie",
+                    "surname": "Jones",
+                    "email": "charlie.jones@mu.com"
+                },
+                "id": "94eff77c-dcf5-49be-8ae7-791de2e6b992",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-06-18T00:00:00",
+                "share": 0.16
+            },
+            {
+                "user": {
+                    "id": "712af062-2493-4700-95b8-819fbe8e8a60",
+                    "name": "Bob",
+                    "surname": "Davis",
+                    "email": "bob.davis@mu.com"
+                },
+                "id": "18e94329-a5cf-483e-aacb-4ef727d27edf",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-12-15T00:00:00",
+                "share": 0.38
+            },
+            {
+                "user": {
+                    "id": "533bb436-713a-4287-b9b0-34afbfd23bf3",
+                    "name": "Jack",
+                    "surname": "Jones",
+                    "email": "jack.jones@mu.com"
+                },
+                "id": "31a4f8ac-0fe6-4103-ad09-f6a8c5c46e76",
+                "order": 3,
+                "valid": true,
+                "lastchange": "2024-02-18T00:00:00",
+                "share": 0.45999999999999996
+            }
+        ]
+    },
+    {
+        "id": "78ad0cae-33bd-4f2f-b8cb-c1ea594f8e20",
+        "publicationtype": {
+            "id": "ae548aaf-991b-4131-add3-a93b18634a62",
+            "name": "Conference proceedings"
+        },
+        "place": "Zlin",
+        "publishedDate": "2023-02-09T00:00:00",
+        "valid": true,
+        "reference": "https://www.facebook.com/da.r.bou.3/",
+        "name": "Manchester United",
+        "authors": [
+            {
+                "user": {
+                    "id": "7d9e34e9-cdbf-438d-99f7-095fa44d815c",
+                    "name": "Messi",
+                    "surname": "Garcia",
+                    "email": "messi.garcia@mu.com"
+                },
+                "id": "9f3d7862-3306-4d60-9fd4-d48f30f5457b",
+                "order": 1,
+                "valid": true,
+                "lastchange": "2024-03-03T00:00:00",
+                "share": 0.84
+            },
+            {
+                "user": {
+                    "id": "533bb436-713a-4287-b9b0-34afbfd23bf3",
+                    "name": "Jack",
+                    "surname": "Jones",
+                    "email": "jack.jones@mu.com"
+                },
+                "id": "abd702b2-6673-46dc-9f5d-596887d11563",
+                "order": 2,
+                "valid": true,
+                "lastchange": "2024-04-10T00:00:00",
+                "share": 0.03
+            },
+            {
+                "user": {
+                    "id": "a92ec5ba-e38e-4860-a8c5-703f606eda0f",
+                    "name": "Hannah",
+                    "surname": "Miller",
+                    "email": "hannah.miller@mu.com"
+                },
+                "id": "a453225b-df8e-41fe-b3c4-a6fb9f2f6718",
+                "order": 3,
+                "valid": true,
+                "lastchange": "2024-04-26T00:00:00",
+                "share": 0.13000000000000003
+            }
+        ]
+    }
+]
