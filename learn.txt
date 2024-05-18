@@ -1,0 +1,11 @@
+Trong Python, users_list = users và users_list = users[:] (hoặc users_list = list(users)) có sự khác biệt quan trọng liên quan đến cách mà 
+danh sách được sao chép và sử dụng:
+
+users_list = users
+Liên kết tham chiếu: Khi bạn gán users_list = users, cả users_list và users đều tham chiếu đến cùng một danh sách trong bộ nhớ. 
+Bất kỳ thay đổi nào đối với users_list sẽ ảnh hưởng trực tiếp đến users và ngược lại.
+
+users_list = users[:] hoặc users_list = list(users)
+Sao chép nông: Khi bạn gán users_list = users[:] hoặc users_list = list(users), bạn tạo ra một bản sao nông của users. users_list là một danh sách mới, độc lập với users. 
+Thay đổi trong users_list sẽ không ảnh hưởng đến users và ngược lại.
+->> chốt như lày cho chuẩn : users_list=list(users)
