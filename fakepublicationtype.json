@@ -1,22 +1,22 @@
 [
     {
-        "id": "ae548aaf-991b-4131-add3-a93b18634a62",
+        "id": "28ab2416-930a-4ae8-a5ee-478bf2493890",
         "name": "Conference proceedings"
     },
     {
-        "id": "c66ad467-dc1c-4bdc-9de4-bc43fd5880e0",
+        "id": "8328a474-6d02-4090-88fb-37d53b3564eb",
         "name": "Official publications"
     },
     {
-        "id": "5dab1f90-821d-44bd-bb43-f38d091f0ac5",
+        "id": "cfdcad35-e2eb-4e19-8d25-b2a6cd50a1ba",
         "name": "Journal articles"
     },
     {
-        "id": "2e666937-74ca-486c-9896-1dcacc6fd2f6",
+        "id": "a0462d88-1793-402a-b6e9-08d0aa8aea37",
         "name": "Books"
     },
     {
-        "id": "ceb6dd14-e7dc-4f5d-a4a2-d8a9f1d3dd3f",
+        "id": "9ce5929b-f012-4d65-9cae-860b510a6867",
         "name": "Research reports"
     }
 ]
