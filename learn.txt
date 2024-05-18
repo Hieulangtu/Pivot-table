@@ -9,3 +9,16 @@ users_list = users[:] hoặc users_list = list(users)
 Sao chép nông: Khi bạn gán users_list = users[:] hoặc users_list = list(users), bạn tạo ra một bản sao nông của users. users_list là một danh sách mới, độc lập với users. 
 Thay đổi trong users_list sẽ không ảnh hưởng đến users và ngược lại.
 ->> chốt như lày cho chuẩn : users_list=list(users)
+
+Trong Python, khi bạn sử dụng một dictionary, các keys phải là duy nhất. Trong trường hợp của bạn, bạn đã sử dụng key 'author_share' hai lần 
+trong aggfunc, điều này là không hợp lệ vì các keys trong một dictionary phải là duy nhất. (ở ngay sau chỗ sunburst serious)
+
+pivot_table2['author_share_mean'] = df2.groupby('author_name')['author_share'].mean()  //ở đoạn serious pivot_table2
+Dòng mã này thực hiện các bước sau:
+df2.groupby('author_name'): Group dữ liệu trong DataFrame df2 theo cột 'author_name'. Điều này tạo ra một đối tượng DataFrameGroupBy, trong đó các hàng được nhóm lại theo giá trị của cột 'author_name'.
+['author_share']: Chọn cột 'author_share' từ các nhóm đã được tạo. Điều này chỉ ra rằng chúng ta muốn tính toán giá trị trung bình của cột 'author_share' cho mỗi nhóm 'author_name'.
+mean(): Áp dụng hàm trung bình cho mỗi nhóm, tính toán giá trị trung bình của cột 'author_share' cho mỗi nhóm 'author_name'. Kết quả là một Series chứa giá trị trung bình của 'author_share' cho mỗi nhóm.
+Về cơ bản, dòng mã này tính toán giá trị trung bình của cột 'author_share' cho mỗi nhóm 'author_name'.
+
+Dòng pivot_table3.columns = pivot_table3.columns.get_level_values(1) sẽ lấy các giá trị cấp 1 từ MultiIndex và gán chúng lại làm các cột 
+của DataFrame, loại bỏ các nhãn không mong muốn. Sau đó, bạn có thể vẽ biểu đồ như bình thường và chúng sẽ không xuất hiện trên biểu đồ nữa.
